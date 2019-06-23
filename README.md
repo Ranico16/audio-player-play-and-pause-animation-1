@@ -1,0 +1,1 @@
+Play and pause animation.
